@@ -30,7 +30,7 @@ from keep_alive import keep_alive
 import re
 from itertools import cycle
 
-BOT_TOKEN = ("token")
+BOT_TOKEN = ("put your token here")
 
 # Prefixes And Stuff #
 
